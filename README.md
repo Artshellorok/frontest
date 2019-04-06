@@ -1,4 +1,4 @@
-# vuetify
+# meal-prep
 
 ## Project setup
 ```
